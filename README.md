@@ -1,3 +1,5 @@
+Demostrates loops, logic and basic java programming.
+
 A program for a rental car company. The program will keep track of the rented cars. 
 For each car program will keep track of the name of the car's renter,the car number(an id number assigned to each car), 
 the car name (model), the car type (compact, mid size, SUV etc), the car rental rate, and the number of days that the car is rented. 
